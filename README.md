@@ -1,5 +1,9 @@
 # password-generator
 
+![alt text](https://i.imgur.com/BOH6rU5.png)
+
+
+
 
 A password is randomly generated based on criteria that the user provides when prompted.
 
