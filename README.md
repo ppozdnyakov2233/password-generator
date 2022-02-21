@@ -18,4 +18,4 @@ https://ppozdnyakov2233.github.io/password-generator/ </br>
 https://github.com/ppozdnyakov2233/password-generator
 
 
-Made by: Pavel.P
+
